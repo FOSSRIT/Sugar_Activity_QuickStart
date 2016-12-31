@@ -1,9 +1,7 @@
 from gettext import gettext as _
-
 import sys
-from gi.repository import Gtk
-import pygame
 
+from gi.repository import Gtk
 import sugar3.activity.activity
 from sugar3.graphics.toolbarbox import ToolbarBox
 from sugar3.activity.widgets import ActivityToolbarButton
